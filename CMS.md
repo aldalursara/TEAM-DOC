@@ -53,7 +53,7 @@ Gehien era guztietako pertsona eta erakundeek erabiltzen dituzte:
 * **Merkataritza elektronikoa (E-commerce):** On-line dendak dituzten saltzaileak.
 * **Irabazi asmorik gabeko erakundeak eta ikastetxeak:** Informazioa eta berriak erraz zabaltzeko.
 
-<b>CMS ezagunenak</b>
+<h2><b>CMS ezagunenak</b></h2>
 
 <b>WordPress:</b> hasiera batean web-edukiak kudeatzeko sistema bat zen, blogak argitaratzeko sortua, baina beste arlo askotara ere hedatu da. Kode irekiko sistema hau webguneak, merkataritza elektronikoko dendak eta abar sortzeko erabil daiteke.
 
