@@ -6,7 +6,7 @@ Kodea hasieratik idatzi ordez (HTML, CSS edo JavaScript adibidez), CMS batek int
 
 ---
 
-## 🏗️ Nola funtzionatzen du CMS batek barnealdetik?
+##  Nola funtzionatzen du CMS batek barnealdetik?
 
 CMS bat bi zati nagusiz osatuta dago:
 
@@ -15,7 +15,7 @@ CMS bat bi zati nagusiz osatuta dago:
 
 ---
 
-## 📊 CMS ezagunenen arteko alderaketa
+##  CMS ezagunenen arteko alderaketa
 
 | CMS | Erabilera nagusia | Funtsezko abantailak |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ CMS bat bi zati nagusiz osatuta dago:
 
 ---
 
-## ✨ CMS bat erabiltzearen abantailak
+##  CMS bat erabiltzearen abantailak
 
 - **Irisgarritasuna:** Ez duzu web garapenean aurretiko esperientziarik behar.
 - **Diseinua eta edukia bereiztea:** Itxura (*theme* edo txantiloia) aldatu dezakezu gordetako informazioa galdu gabe.
