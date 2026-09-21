@@ -26,7 +26,11 @@ CMS bat bi zati nagusiz osatuta dago:
 
 ---
 
+<<<<<<< HEAD
 ##  CMS bat erabiltzearen abantailak
+=======
+## CMS bat erabiltzearen abantailak
+>>>>>>> 47862a8a2ab382c6d6d049398f09c5822be758d7
 
 - **Irisgarritasuna:** Ez duzu web garapenean aurretiko esperientziarik behar.
 - **Diseinua eta edukia bereiztea:** Itxura (*theme* edo txantiloia) aldatu dezakezu gordetako informazioa galdu gabe.
