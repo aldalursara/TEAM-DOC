@@ -1,4 +1,4 @@
-## 🛠️ Zergatik erabiltzen dira? (Erabilera Praktikoko Abantailak)
+##  Zergatik erabiltzen dira? (Erabilera Praktikoko Abantailak)
 
 | Zertarako erabili? | Zer lortzen da? |
 | :--- | :--- |
